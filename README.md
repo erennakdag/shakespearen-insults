@@ -1,7 +1,7 @@
 # Shakespearen Insults
 Twitter Bot that says random Shakespearean Insults
 
-This Twitter Bot was created using tweepy module in Python and the Elevated API Access via developer.twitter.com
+This Twitter Bot was created using tweepy module in Python and the Elevated API Access via <https://developer.twitter.com>
 
 ### How it works:
 
